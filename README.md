@@ -23,6 +23,6 @@ Sol click ile de uzay gemisi ateş etmektedir.
 * ### Atış efekti
   ![](/images/Atis_Efekti.jpg)
 * ### Düşman artışı
-  ![](/Dusman_Artisi.jpg)
+  ![](/images/Dusman_Artisi.jpg)
 * ### Bitiş ekranı
   ![](/images/Bitis_Ekrani.jpg)
