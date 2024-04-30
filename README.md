@@ -17,9 +17,9 @@ Oyun Uzay gemisi ve Mouse aynı yönde hareket edecek şekilde ayarlanmış duru
 Sol click ile de uzay gemisi ateş etmektedir.
 ## Görseller
 * ### Başlangıç ekranı ve oyun kuralları
-  ![](/images/Oyun_Baslangic_Ekrani.jpg)
-* ### Başlangıç ekranı
   ![](/images/Baslangic_Ekrani.jpg)
+* ### Başlangıç ekranı
+  ![](/images/Oyun_Baslangic_Ekrani.jpg)
 * ### Atış efekti
   ![](/images/Atis_Efekti.jpg)
 * ### Düşman artışı
