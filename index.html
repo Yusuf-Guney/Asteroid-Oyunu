@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>OYUN</title>
+	<link rel="stylesheet" href="oyun.css"> <!-- css dosyasını ekliyoruz-->
+	
+</head>
+<body>
+	<div id="score"></div> <!-- skoru yazdırıyoruz-->
+	<div id="kills"></div> <!-- killeri yazdırıyoruz-->
+	<div id="start" class="panel">
+		<h3>Düşmanlara Karşı Savaş</h3>
+		<h2>Oyun Kuralları</h2>
+        <ul>								<!--oyun kurallarını belirlerken liste kullanıyoruz-->								
+            <li>Uzay gemisi Mouse ile kontrol edilmektedir.</li> 
+            <li>Sol click ile uzay gemisi ateş etmektedir.</li>
+            <!-- İhtiyacınıza göre kuralları buraya ekleyebilirsiniz -->
+        </ul>
+		<button onclick="init();">OYNA</button> <!--butona tıkladığımda oynunu başlat--> 
+	</div>
+	<canvas id="canvas"></canvas>
+	<script src="oyun.js"></script> <!-- js dosyasını ekliyoruz-->
+</body>
+</html>

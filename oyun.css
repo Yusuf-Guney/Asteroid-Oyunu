@@ -1,0 +1,63 @@
+body{
+	margin:0; /*Tüm arka planı kaplaması için margin ve paddingi 0 yapıyoruz.*/
+	padding:0;
+	height:100vh;
+	background:black; /*Tüm arka plan rengini siyah yapıyoruz*/ 
+} 
+
+
+.hide{
+	display:none !important; /*Başlat butonuna bastığımızda butonu sayfadan kaldırıyor */
+}
+
+canvas{
+	cursor: crosshair; /*imleci değiştir*/
+}
+
+div#score{  /*ekranın sol üst köşesine skoru yazıyoruz.*/
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 1rem;
+	color: orange;
+	font-size: 1rem;
+}
+
+div#kills{ /*skorun hemen altına kill sayısını yazıyoruz.*/
+	position: absolute;
+	top: 20px;
+	left: 0;
+	padding: 1rem;
+	color:  orange;
+	font-size: 1rem;
+	}
+	
+.panel{ /*oyun bitir butonunu oluşturuyoruz.*/
+		background: #6c5f5f;
+		position: absolute;
+		padding: 2rem;
+		border-radius: .5rem;
+		transform: translate(-50%,50%);
+		top: 20%; /*bitir butonunu sayfanın ortasına sabitliyoruz.*/
+		left:50%;
+		display: flex;
+		flex-direction: column;/*yazıları alt alta yazıyoruz*/
+		justify-content: center;/*Yazıları ortalıyoruz.*/
+		align-items: center;
+}
+
+.panel h3{
+	color:orange;
+}
+
+.panel ul{
+	color: #000000; /*panel rengi*/
+	margin: 2rem;
+}
+.panel button{ /*Tekrar Dene*/
+	background: orange;
+	color: white;
+	padding:.6rem 1.3rem;
+	font-size:1.2rem;
+	border-radius:.6rem;
+}
