@@ -11,7 +11,7 @@ Skor miktarını ayarlarken her bir asteroidin boyu farklı olduğundan küçül
 Her bir asteroid yok edildiğinde kill miktarı 1 artmaktatadır. Asteroidler uzay gemisine çarptığı an oyun bitmekte ve ekranda skor gözükmektedir.
 ## Oyun ve Oynanış Videosu Linki
 * [Oyun Linki](https://yusuf-guney.github.io/Asteroid-Oyunu/) - Oyuna yandaki linke tıklayarak ulaşabilirsiniz.
-* [Oynanış Videosu Linki](...) - Oyunun oynanış videosuna yandaki linke tıklayarak ulaşabilirsiniz.
+* [Oynanış Videosu Linki](https://youtu.be/yLfr3xsBq5k) - Oyunun oynanış videosuna yandaki linke tıklayarak ulaşabilirsiniz.
 ## Oyunun Oynanışı
 Oyun Uzay gemisi ve Mouse aynı yönde hareket edecek şekilde ayarlanmış durumda<br>
 Sol click ile de uzay gemisi ateş etmektedir.
